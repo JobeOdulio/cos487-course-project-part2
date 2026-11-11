@@ -127,6 +127,7 @@ class preprocess:
 
         
         print(f"indexed {len(self.paragraphs)} paragraphs")
+        return self.paragraphs
     
  
              
