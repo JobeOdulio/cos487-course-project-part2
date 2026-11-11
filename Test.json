@@ -1,0 +1,1252 @@
+[
+  {
+    "query_id": 2251,
+    "query": "What measures were taken to address quality issues in the sustained vowel recordings within the CLAC dataset?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2252,
+    "query": "Compare the methods used to maintain and observe state for agents in a game-based cooperative setting versus an interactive programming environment.",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2253,
+    "query": "What determines the number of variables needed to describe symmetric versus general actions of the Steenrod algebra on A(2)?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2254,
+    "query": "How does the performance of a regularized gradient selection method differ from basic magnitude-based pruning when measured by predictive correctness over training cycles?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2255,
+    "query": "Which financial assets can be used to represent broad US equity market trends in high-frequency data analysis?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2256,
+    "query": "How does the categorical framework for zoom complexes relate to the representation of positive opetopes formulated by Zawadowski?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2257,
+    "query": "What is the calculated rank of the module $\\mathcal{O}_{G}$?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2258,
+    "query": "For a high-speed ionized particle following a bent path, how is the rotational motion of the emitted light partitioned based on the reference origin, and what physical cause leads to a non-vanishing value when measured from the particle's own location?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2259,
+    "query": "How does the Pose Magic architecture combine Mamba and Graph Convolutional Networks to improve 3D human pose estimation?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2260,
+    "query": "What is the compositional structure of the L-functions that make up the dual moment term?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2261,
+    "query": "How is curriculum training and the MetaDrive simulator used for closed-loop training of ego agent policies in driving scenarios?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2262,
+    "query": "Compare the distinct approaches to representing scene or object data and the specific software or models used for grasp prediction across different robotic grasping frameworks.",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2263,
+    "query": "How can graph neural networks and large language models be combined to identify and name recurring themes regarding climate change disasters?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2264,
+    "query": "What common goals are identified for enhancing simulation precision and creating safeguards against both abrupt climatic shifts and solar-driven occurrences?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2265,
+    "query": "How does the existence of a series of matching partitions with increasing invariance in countable amenable groups contribute to proving that van der Corput sets are independent of the chosen Følner sequence?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2266,
+    "query": "What methods can be used to mitigate geometry approximation errors when solving partial differential equations on domains with non-flat boundaries?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2267,
+    "query": "How can linear time-invariant stochastic differential equations be used to represent certain Gaussian processes for the purpose of regularization?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2268,
+    "query": "How is the stable homotopy group functor expressed through tensor products within an abelian category using the universal coefficient sequence?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2269,
+    "query": "How is the three-tangle entanglement measure for a three-qubit state derived from the relationships between individual and composite parties?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2270,
+    "query": "How were the sets of keywords developed to determine if patients in a French medical study underwent surgical or chemical treatments and the side of their intestinal growth?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2271,
+    "query": "For a computational fluid dynamics analysis of a satellite vibration control device, what substances are used for the fluids and what is the angular velocity of the rotating housing?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2272,
+    "query": "What factors influence the X-ray polarization degree and angle in neutron star low-mass X-ray binaries (NS-LMXBs)?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2273,
+    "query": "What is the specific value of $g_{r}$ used to align the radial derivative of the Klein–Gordon equation with the general form in this derivation?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2274,
+    "query": "What is the computational complexity of the PC(k,s) problem in bipartite graphs when s is at least 6 and k is at least 5?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2275,
+    "query": "Why did GPT-4o flag certain JUnit 5 refactorings involving exception handling as inconsistent?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2276,
+    "query": "How can the learning rate be constrained to ensure the L^q-convergence of stochastic gradient descent iterates when using dropout?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2277,
+    "query": "Are certain career paths more prone to being described with terms that indicate sex in public feedback?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2278,
+    "query": "What factors contribute to a drop in translation quality metrics for a Q-Conformer architecture when evaluating on unseen data after limited training examples?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2279,
+    "query": "What are some different ways to implement non-parametric two-sample tests using integral probability measures for multivariate data, and how do these approaches compare in terms of computational efficiency or performance in high-dimensional spaces?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2280,
+    "query": "Which common equity market characteristics are shared by cryptocurrency tokens, and which are less common?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2281,
+    "query": "What are the known methods for generating random permutations following a Mallows distribution, and why are these techniques difficult to apply when specific constraints are imposed on the permutations?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2282,
+    "query": "impact of dense fill-ins in boundary pressure space Schur complement computations on memory and iterative method performance",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2283,
+    "query": "How are non-VT counterfactual examples presented to participants for labeling when neuro-symbolic patterns are not used?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2284,
+    "query": "In what ways does the KEP framework's method for preparing visual-textual models diverge from the strategies employed by CoCa and CLIP?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2285,
+    "query": "How does the spatial relationship between an animal's movement path and a neuron's activation boundary influence the resulting pattern of neural activity?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2286,
+    "query": "Which parts of the document cover the assessment of MSE ontologies and the resulting data analysis?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2287,
+    "query": "How does the Ant Colony Optimization (ACO) module interact with the Hardware-aware Neural Architecture Search (HW-NAS) to determine the final model structure?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2288,
+    "query": "How did the authors manage the trade-off between model adaptation and overfitting when applying LoRA to the text decoder?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2289,
+    "query": "What method can be employed to calculate an approximation of the optimal matrix B*?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2290,
+    "query": "What are the proposed theoretical mechanisms used to explain X-ray time lags in the contexts of Swift J1727.8-1613 and typical Accreting Millisecond X-ray Pulsars (AMXPs)?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2291,
+    "query": "What is the process for using magnetic susceptibility divergences and fitting techniques to calculate how spin-related fluctuations influence the light absorption properties of a material?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2292,
+    "query": "How do vector fields represent robot behavior in Highway and Obstacle environments?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2293,
+    "query": "How is the Pochhammer symbol expressed in terms of the Gamma function?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2294,
+    "query": "How does the inclusion of fronthaul compression modify the nature of signal interference in the beamforming optimization problem (P3) compared to standard non-convex QCQP approaches?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2295,
+    "query": "How are the variables used to represent the pose of an agent and the change in pose between timestamps mathematically structured?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2296,
+    "query": "Under the constraints of Condition C, what minimum scale must the straight sections of the boundary curves maintain, and how must the short orthogonal paths originating from these edges behave relative to other boundary components?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2297,
+    "query": "How does the expression for $P^{(N)}(\\sigma_{1},\\sigma_{2})$ relate to results concerning $\\mathcal{O}_{q}(SL_{2})$ and the $SL_{3}$ group?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2298,
+    "query": "What factors might cause discrepancies between theoretical predictions and experimental results regarding performance at higher alpha values in cavity photon preparation?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2299,
+    "query": "How do the electronic temperature and scaling dimension influence the timescale for braiding processes in a fractional quantum Hall conductor?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2300,
+    "query": "In the context of quantum theory, why are projection operators considered a superior conceptual framework compared to using arbitrary labels for recording experimental results?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2301,
+    "query": "What determines whether a counting problem associated with a set of tuples is classified as an n-vector counting problem?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2302,
+    "query": "Under what conditions is the intrinsic complexification at a specific point equivalent to the germ of the fundamental group of the space at that same point?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2303,
+    "query": "What are the different model architectures and feature extraction methods used for analyzing pathology datasets across histopathological images and audio-based signals?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2304,
+    "query": "How do SAM-generated captions differ from original captions in their impact on a model's image comprehension?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2305,
+    "query": "How have researchers approached the challenge of preparing for and evaluating the ability to answer questions during professional presentations, both in terms of human recruitment and automated system development?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2306,
+    "query": "What underlying transport mechanisms result in the observation of exponential decay in probability density functions across diverse biological and physical systems?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2307,
+    "query": "What are the specific approximation methods used to evaluate integrals in the contexts of system size dependence and deprojected mass calculations?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2308,
+    "query": "What is the methodology for optimizing the neural networks that estimate value changes for emergency responders and pending events?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2309,
+    "query": "What are some methods for generating adaptive triangular meshes for smooth surfaces or implicit fields, and what are the limitations of Delaunay refinement in high-resolution iso-surfacing?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2310,
+    "query": "How has the field of multimodal interaction evolved from basic image-based questioning to complex interactive games where one AI must determine a secret picture through an exchange of inquiries?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2311,
+    "query": "What common assumptions are made regarding the initial configuration of a total system composed of a primary unit and its surrounding environment across these studies?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2312,
+    "query": "How does the reliance on corporate funding affect research trends and publication standards in the field of artificial intelligence?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2313,
+    "query": "Is it possible for any network with a shortest cycle of fifty or more edges to be embedded as a vertex-induced component within a larger system that fulfills the KNRS hypothesis?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2314,
+    "query": "What is the industrial Cyber-Physical Systems Description Language (iCPS-DL) and how does it enable autonomic reconfigurations in industrial systems?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2315,
+    "query": "In which major metropolitan areas have researchers measured the temporal impact of seeking vehicle stalls or traversing the final stretch on foot for logistics personnel?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2316,
+    "query": "What evidence was used to determine if shifting to an independent timing architecture yields a growth benefit that exceeds a simple proportional increase relative to the task magnitude?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2317,
+    "query": "How does the steady-state size of intensive active droplets change relative to the critical transition point?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2318,
+    "query": "How is the statistical importance of the mutual information between S and tau determined for target galaxies?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2319,
+    "query": "Which mathematical criteria regarding the error term $f_{\neq}$ ensure that a population of mobile entities reaches a state of uniform density across the area $\\mathbb{T}^2$?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2320,
+    "query": "How do differences in opacity across various atomic data sources influence the temporal distribution of total light emission from expanding stellar debris?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2321,
+    "query": "What factors primarily determine the velocity of a jet head when there is high magnetization and the jet speed is near the speed of light?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2322,
+    "query": "How can Euler equations be transformed to ensure the entries of the new denominator polynomial are positive integers?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2323,
+    "query": "Which fundamental principles govern how damage progresses within a continuum body according to phase-field models in variational fracture mechanics?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2324,
+    "query": "In what way does the SHEATH architecture mitigate harmful signal interference in deep learning models that rely on histogram computations?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2325,
+    "query": "What are the distinct methods used for regularizing or implementing behavior cloning in the training objectives of the Half Cheetah control problem experiments and the SODP learning dynamics analysis?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2326,
+    "query": "What alternative framework to the Nash equilibrium can be used to determine if a system is implementable when participants possess shared awareness of each other's logical behavior?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2327,
+    "query": "Which software tool was utilized to convert various time measurements into the BJDTDB scale for the processing of TESS data?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2328,
+    "query": "How do users' nonverbal communication patterns, such as eye contact and gestures, change during the integration phase of interacting with a virtual assistant?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2329,
+    "query": "How can the Open Set Condition be verified for a set of mappings where the distance between base points exceeds the maximum possible diameter of the mapped images?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2330,
+    "query": "How can programmable graphics processors be used to optimize the speed of discovering causal relationships through parallelized statistical independence verification in genomic information?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2331,
+    "query": "how to obtain the pixel-by-pixel gain variation function using an incandescent lamp",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2332,
+    "query": "What specific statistical mechanisms are used to manage both stable and fluctuating confounding factors in the temperature response models for macro-regions?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2333,
+    "query": "What is the relationship between the limit of the ratio of epsilon to kappa as epsilon approaches zero and the variable mu zero?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2334,
+    "query": "Which electronic properties of the lead apatite compound make it suitable for investigating many-body interactions, and what observed physical states verify these claims?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2335,
+    "query": "In the context of fluid dynamics, how do different formulations describe the total acceleration of a particle when considering body forces such as gravity or force potentials?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2336,
+    "query": "How is the neighborhood of selected rules at level L_k established and what determines the importance of specific attributes during this calculation?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2337,
+    "query": "How does the complexity of next-to-leading order contributions compare to leading order corrections in the DMB formula?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2338,
+    "query": "How was the synthetic audio dataset based on JSB Chorales generated in terms of instrument sounds and chords?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2339,
+    "query": "What mathematical frameworks or distribution types are utilized across these different approaches to derive predictive beliefs or distributions for future observations?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2340,
+    "query": "What specific inputs, starting states, and constant coefficients are necessary to operate the digitized feedback control loop?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2341,
+    "query": "How is the Bogovskiĭ operator used to derive the pressure component of a function within a bounded smooth domain?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2342,
+    "query": "In what ways do random signal interferences affect the reliability of detecting directional imbalances in spacetime ripples using pulsar timing measurements?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2343,
+    "query": "How do specific test statistics and estimation matrices in time-series panel data analysis behave regarding power, distribution, and convergence when the time dimension (T) is either fixed or grows relative to the number of subjects (N)?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2344,
+    "query": "How is the selection of the index for the asymmetric information set handled when the proportions for different classes are equal?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2345,
+    "query": "How is beam energy computed in the Beam Energy Monitor (BEM) for arc energy locks?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2346,
+    "query": "how to define the subset of single-minded bidders who receive a valuable bundle in an optimal allocation",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2347,
+    "query": "Which specific variables are utilized to analyze inflationary processes when the potentials exhibit plateau characteristics in the high $\\tau_{2}$ regime?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2348,
+    "query": "What determines the existence of a generator for the semi-group $\\prescript{}{y_{m}}{\\mathsf{Z}}^{y_{m}}$ smaller than $\\varepsilon$ as $m$ increases?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2349,
+    "query": "How is the quantity of chosen radial measurements determined relative to the dimensionality of the space?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2350,
+    "query": "How does the stability relationship between BIBO and LILO differ when moving from SISO systems to the general system described in the study?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2351,
+    "query": "What method exists for predicting the average and variability of stiffness distributions in layered materials composed of primary and bonded sections using surface deformation measurements?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2352,
+    "query": "What effects do parity-time symmetric multi-layered systems with equalized amplification and attenuation have on the reflection and transmission of combined compression and twisting elastic waves?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2353,
+    "query": "What condition determines if a specific choice in a multi-armed bandit problem remains available for selection through a given sequence of rounds?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2354,
+    "query": "How is it demonstrated that a conditional independence statement from the set $\\mathcal{L}^{R}$ is also contained within $\\mathcal{L}^{C}$?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2355,
+    "query": "Under what conditions does the first inequality involving the largest eigenvalue of M become an equality, and how does a random choice of x affect this gap?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2356,
+    "query": "What is the relationship between the thermodynamic energy difference of a chemical process and the logarithmic acidity constant for substances with low dissociation in sparse environments?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2357,
+    "query": "What are the structural characteristics and user interaction patterns observed in Reddit-based discussion networks?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2358,
+    "query": "Under what conditions does a symmetric homeomorphism of M fail to induce a specific element within the mapping class group of the pair (N, C)?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2359,
+    "query": "What are the primary stages involved in an interactive machine teaching process that utilizes co-training and feedback on both specific examples and extracted rules?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2360,
+    "query": "How does RRAM-aware NAS utilize user-defined parameters to determine an ideal network?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2361,
+    "query": "How can a combination of chaotic quantum circuits and measurement-based feedback be used to stabilize unstable orbits in a system of qubits?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2362,
+    "query": "What is the process for estimating the concentration of free electrons using a mutual impedance instrument, and how do the available transmitter setups affect the detectable particle density limits?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2363,
+    "query": "How can knowledge graph query systems retrieve correct answers that are not explicitly present in the observed data?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2364,
+    "query": "How do the $SM$, $ES$, $LS$, and $MS$ strategies compare to the benchmark approaches in terms of accuracy and the volume of preference information required from decision makers?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2365,
+    "query": "How does the tautological flow and the continuity of symmetry regarding the first time derivative affect the preservation of a bihamiltonian structure during a discrete transformation of u?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2366,
+    "query": "What are the initial conditions and parameters used for density, pressure, and entropy per unit mass in the simulation?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2367,
+    "query": "How does PGv3 perform compared to other open-source state-of-the-art models regarding image quality, geometry, and object shape when using different captioning sources?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2368,
+    "query": "Which constraints can be applied during the mapping of meaning-based data to improve how well an image is reconstructed and how precisely its categories are identified?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2369,
+    "query": "How do mass accretion rates and surface densities of disks evolve following an outburst over several hundred days?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2370,
+    "query": "Under what specific conditions regarding K2 and the dielectric anisotropies is the phase change categorized as second order?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2371,
+    "query": "How does the inclusion of hadronic phase energy loss affect the elliptic flow coefficient $v_{2}(p_{\rm T})$ compared to scenarios involving only the Quark-Gluon Plasma phase?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2372,
+    "query": "What are the definitions of left, right, lateral, and general congruence relations on a ternary semigroup?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2373,
+    "query": "What property must a product of two functions with localized A possess to demonstrate that a term is higher order given the projection F_h?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2374,
+    "query": "Which component of the described system consumes the most processing time and how is it currently executed?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2375,
+    "query": "Why is the point of maximum density utilized as the central reference for calculating gas inflow in the halo?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2376,
+    "query": "How did CLIP-based pre-training influence the accuracy of identifying five distinct supernova categories compared to the standard approach?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2377,
+    "query": "What are the mass constraints and primary annihilation channels for the dark matter candidate $\\chi_{x}$ within the $U(1)_{x}$ hidden sector framework?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2378,
+    "query": "What statistical estimation approach dynamically optimizes its internal settings to maintain accuracy while resisting the influence of anomalous data points in large-scale sets?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2379,
+    "query": "Does the vertical dimension of the groove influence the magnetic flux or the final arrangement of particles in a simulation of the 1924 Stern-Gerlach setup?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2380,
+    "query": "What method was used to inject noise into the response variables during the EPower simulation trials?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2381,
+    "query": "What is the relationship between the tangent vector of a null geodesic at point O and the process of stereographic projection from the celestial sphere?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2382,
+    "query": "How are recent advancements in connectivity and computation addressing the transmission bottlenecks associated with Earth Observation data in satellite networks?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2383,
+    "query": "What technique allows for the modification of existing image recognition systems for novel applications without updating every weight in the network?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2384,
+    "query": "What mechanism do vector-space search techniques use to locate comparable entries during the initial phase of a dual-step filtering process?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2385,
+    "query": "How does the method for calculating the distance between extended Newton polytopes in this work differ from the approach used by Misiakos et al. 2022?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2386,
+    "query": "How are diffusion-based models applied to symbolic music generation for diversity and structural consistency, and how are they utilized for music audio editing tasks like lead sheet-conditioned in-painting?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2387,
+    "query": "How does the optimal solution behave as the range of a uniform probability distribution shrinks toward zero?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2388,
+    "query": "What technique prevents performance drops when combining still photos and video clips to train a system for detecting human emotions?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2389,
+    "query": "Which online repository hosts a social map of academic partnerships among experts in the field of network analysis based on joint authorship?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2390,
+    "query": "How is the clause coloring stage used to develop a strategy for qubit reconfiguration in Field Programmable Quantum Arrays (FPQAs)?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2391,
+    "query": "What technique involving penalized regression and resampling is used to filter a smaller set of potential intervening variables to manage large feature spaces?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2392,
+    "query": "What occurs to the allowed energy states of the theory when the $U$ coupling becomes infinitely large?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2393,
+    "query": "Has a publicly available framework been developed to assess the automated production of academic review articles?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2394,
+    "query": "What factors determine whether a traveler chooses an ordinary lane or a high-occupancy toll lane in a multi-segment road network, and how is the equilibrium strategy calculated based on latency differences and pricing?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2395,
+    "query": "In what way does a generative AI tool help a specialized decoy system better interact with intruders?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2396,
+    "query": "What method utilizes a wavelet-based latent representation within a generative neural network to simulate detailed galactic shapes and their associated structural metrics?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2397,
+    "query": "How can allowing an AI hardware chip to interrupt operations at the most basic command level improve the handling of urgent tasks in mixed-priority environments?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2398,
+    "query": "How do the SpecGuard-PC and SpecGuard-RC variants compare to a recovery method that lacks state reconstruction in terms of mission specification violation rates and recovery speed for robotic autonomous vehicles?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2399,
+    "query": "What technique allows a neural network to simultaneously identify faults and track the steady wear of machinery components without relying on predefined labels for the aging process?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2400,
+    "query": "How is the function $\\Omega_{4}^{(4)}$ expressed in terms of $\\omega$ for the variables $\\lambda_{1}, \\lambda_{2}, \\lambda_{3}, \\text{and } \\lambda_{4}$?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2401,
+    "query": "What numerical integration method and norm property are employed to discretize the double integral in this mathematical framework?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2402,
+    "query": "How are the diagrams in the set $\\overline{\\mathfrak{A}}2\\overline{\\mathfrak{P}}(0,0,2,2)$ organized and what structural elements are omitted from their visual representation?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2403,
+    "query": "What are some recent strategies for improving point cloud classification accuracy and training efficiency through knowledge distillation and architectural enhancements in self-supervised learning?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2404,
+    "query": "How can the way tiny objects deflect or soak up photons be used to determine their physical dimensions and chemical makeup?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2405,
+    "query": "What are the benefits of utilizing a sequence of past perceptions for decision-making rather than relying on a single current viewpoint in reinforcement learning?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2406,
+    "query": "How are cluster neighbourhoods utilized to achieve a partial decomposition of a graph when vertex neighbourhoods exhibit significant correlation?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2407,
+    "query": "How do the parameters influencing the arrangement of peaks in multiphoton rings differ from the factors determining the distribution of scattering angles in photon interactions?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2408,
+    "query": "How can a unified computational framework handle mixed groups of primal, dual, and proximal participants in a constrained optimization problem without altering the individual participants?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2409,
+    "query": "How does the concept of bounded point derivations in R(X) relate to the existence of non-differentiable functions and the area density of surrounding sets?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2410,
+    "query": "Which metric is utilized for assessing prediction accuracy within the TBN Granger Causality outer optimization process?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2411,
+    "query": "How do various deep learning frameworks for networks with positive and negative edges incorporate social equilibrium principles or multi-cluster node partitioning?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2412,
+    "query": "For a subject who undergoes a target occurrence during a research interval, how is the conditional predictive ordinate determined?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2413,
+    "query": "How is the spread of protein-ligand interaction finger print retrieval percentages analyzed for the complete PoseBuster dataset?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2414,
+    "query": "How is the shortest distance between non-zero points in a lattice defined using the standard L2 norm?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2415,
+    "query": "What purpose does the introduction of a simplified notation for specific types of matrices serve in this research?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2416,
+    "query": "What specific statistical characteristics of bulk and fusion elastic modulus random fields is the machine learning model designed to predict using DIC surface strain data?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2417,
+    "query": "What various scholarly domains provide the frameworks used to detect skewed perspectives or partiality in news and communication research?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2418,
+    "query": "How does the proposed Incremental Classifier address the shortcomings of current CIL and DIL methods in a VIL scenario?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2419,
+    "query": "How do pairwise correlations between weak lensing, photometric galaxy clustering, and spectroscopic galaxy clustering affect Euclid forecasts?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2420,
+    "query": "How does incorporating external summary data impact the bias of neural network estimators in case-control studies?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2421,
+    "query": "how to analytically obtain a dynamics model for a humanoid robot",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2422,
+    "query": "How is the trading signal derived from the methodology of Jiang, Kelly, and Xiu (2023) used to construct decile portfolios?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2423,
+    "query": "How do the stress tensor components at the horizon and its immediate exterior compare between the Einstein tensor results and frozen star models?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2424,
+    "query": "How can the generation of both accurate and inaccurate examples with associated explanations improve the reasoning capabilities of large language models using in-context learning?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2425,
+    "query": "Which techniques have been developed to mitigate the impact of imbalanced label distributions and category incompleteness within multi-label class-incremental learning?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2426,
+    "query": "Are there specific properties that make a projection of unit length inherently compatible with B-bimodule structures and complete positivity?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2427,
+    "query": "What are some traditional time series forecasting methods still used in industry?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2428,
+    "query": "What criteria must be met regarding the distribution of external points across index sets for an integral to be classified as track-like?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2429,
+    "query": "How did the performance and user perception of the SayRea system evolve during the 10-day trial?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2430,
+    "query": "What design objectives and constraints are considered when optimizing the secrecy capacity of the PCS?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2431,
+    "query": "What spectral features and observational datasets were used to examine the spatial and temporal distribution of hydrogen peroxide and carbon dioxide on Europa's surface?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2432,
+    "query": "What dataset is used for evaluating image-based aortic stenosis classification across different severity levels?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2433,
+    "query": "What is the purpose of utilizing a decay parameter for epsilon during a search procedure?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2434,
+    "query": "What mathematical mechanism is used to produce the final result in a system designed to identify offensive language, and how is the associated filter constructed relative to the sequence duration?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2435,
+    "query": "How does the polarization of the rho+ meson affect the Bc+ candidate mass shape in the partially reconstructed background of Bc+ to J/psi rho+ decays?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2436,
+    "query": "How does the choice of truncation law for q affect the predicted timeline of Triton's collision with Neptune?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2437,
+    "query": "How is information regarding hidden scene areas processed and formatted for use within the adversarial judging module?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2438,
+    "query": "Why might sophisticated categorical data clustering models be unsuitable for use by healthcare practitioners?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2439,
+    "query": "How can multi-scale representation learning and Mamba-based architectures be used for image restoration and contrast enhancement?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2440,
+    "query": "What are the mathematical definitions for the Pochhammer symbol and the lower incomplete Gamma function?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2441,
+    "query": "Can a lack of representative samples in a dataset for certain racial identities lead to a discrepancy between the magnitude of vector space associations and the resulting statistical significance of a bias test?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2442,
+    "query": "What are the advantages of using granular, incremental feedback during the tuning of generative AI instead of providing a single evaluation for an entire output?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2443,
+    "query": "What parameters are used to represent the energy of electronic movement within a single sheet and the interaction between two stacked layers in a system characterized by bonding and antibonding states?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2444,
+    "query": "In the context of the provided mathematical proofs, how is the concept of irreducibility applied to determine the properties of different objects such as sets and representations?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2445,
+    "query": "In what way does the simplified version of the processing problem differ from the broader scenario regarding the selection of hardware units?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2446,
+    "query": "Which models are used to explain the detected gamma-ray flux from the Coma cluster?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2447,
+    "query": "What is the dimensionality of the resulting state when an input density matrix is processed by a system with specific input and output decay rates?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2448,
+    "query": "What conditions and mathematical structures are required to define a relative differential operator with a limit-weight on an action-synchronized Lie algebra and a corresponding group?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2449,
+    "query": "How does the duration of the merger process for galaxy pairs vary across different cosmic epochs?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2450,
+    "query": "How does the Token Compensator (ToCom) address the performance degradation caused by inconsistent token compression ratios during the training and deployment of Vision Transformers?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2451,
+    "query": "Why might cubic boron nitride exhibit slower electron transition rates between conduction band valleys than materials such as gallium arsenide?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2452,
+    "query": "Why are traditional computational methods struggling with large-scale combinatorial optimization in fields like AI, and what alternative hardware technologies are being explored to overcome these limitations?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2453,
+    "query": "Why is treating combined phrases as single units more beneficial than analyzing separate terms for identifying the object 'smelling salts' in a vision-language system?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2454,
+    "query": "How does the distribution and composition of antimatter, including antistars, antineutrinos, and antinucleons, affect the gravitational balance and cosmic acceleration of the universe?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2455,
+    "query": "In a wireless setup using programmable mirrors to steer signals, how does allowing the transmitter's aerial elements to shift their physical location improve the signal strength for a receiver compared to static hardware?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2456,
+    "query": "How do different adversarial attacks affect fairness metric scores when comparing a base function to its modified version, specifically when using a combination of mixing and swapping protected features?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2457,
+    "query": "What are the placement constraints and relative ordering of tiles in a T-producing assembly sequence, specifically regarding points of connection and the relationship between 4 and 7 tiles?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2458,
+    "query": "What complication arises when applying a fixed momentum limit to the calculations of color-superconducting states compared to non-superconducting substances?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2459,
+    "query": "how to extend EEC factorization from e+e- initial states to pp or PbPb collisions",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2460,
+    "query": "What criteria are used to distinguish between fair and unfair ties regarding a solver's batched bids?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2461,
+    "query": "What is the required sample size for the classical Monte Carlo method to achieve a specific estimation accuracy for $\\hat{\\mu}(\\vec{t})$?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2462,
+    "query": "How is the average structure of a 4D tree dataset mathematically determined and subsequently used to produce new, random tree-like geometries?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2463,
+    "query": "Why might increasing RAM consumption be a bigger obstacle than processing delays when deploying software security tools in resource-constrained environments?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2464,
+    "query": "What are the defined boundary conditions for the density equations at the positions $X_{e}=0^{+}$ and $X_{e}=L+0^{+}$?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2465,
+    "query": "How can the common weaknesses of large language models, such as factual errors and slow processing, be mitigated?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2466,
+    "query": "What are the characteristics of user interactions in the static datasets derived from the online forum Reddit?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2467,
+    "query": "In what way does a disparity between the datasets used to develop and evaluate a membership inference tool impact its ability to correctly identify all training samples versus its accuracy in identifying a subset of them?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2468,
+    "query": "How is the candidate supernova SN 2012au analyzed in relation to magnetar-powered and CSM interaction theories?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2469,
+    "query": "How does the process for finding a series in normal form relate to the use of homological operators when calculating Poincaré-Dulac normal forms for ordinary differential equations?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2470,
+    "query": "How does the estimate of the second-order derivative matrix evolve over successive steps when solving quadratic programming tasks?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2471,
+    "query": "What challenges and moral dilemmas arise when utilizing AI-driven conversational tools for health-related behavior change interventions in clinical practice?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2472,
+    "query": "How are the matrix representations of the Ocneanu graph fusion algebra related to the properties of transfer matrices and their continuum scaling limits in critical Yang-Baxter integrable lattice models?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2473,
+    "query": "How does human-centric pretraining and higher resolution affect the mIoU of image segmentation models compared to Mask2Former and DeepLabV3+?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2474,
+    "query": "How does a meta-loss based on the posterior predictive distribution improve the search for model parameters compared to using the average cross-entropy loss of separate models?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2475,
+    "query": "What are the defining properties of the asterisk-algebra associated with the sequence of pairs consisting of P_d(X_n) and the SK(L^2_n) operator?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2476,
+    "query": "What are different ways of utilizing Vision Transformer (ViT) features and cosine similarity for feature extraction and retrieval tasks?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2477,
+    "query": "What is the purpose of installing automotive technology designed to help with shifting lanes?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2478,
+    "query": "How do the reheating temperature and the duration of the reheating phase correlate with the scalar spectral index based on Planck satellite observations?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2479,
+    "query": "How does the Swap Monte Carlo algorithm handle particle diameter exchanges to avoid overlaps?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2480,
+    "query": "how to maximize time-averaged heat transfer from channel walls in time-periodic incompressible flow",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2481,
+    "query": "Who is the intended audience for materials and curricula focused on machine learning education?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2482,
+    "query": "How is the code rate determined in scenarios involving perfect reconciliation?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2483,
+    "query": "How does the order of column and row scaling affect the condition number of a matrix in two-sided diagonal scaling?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2484,
+    "query": "Under what conditions is the iterated localization of a ring R at two successive collections of maps between projectives equivalent to a single universal localization of R?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2485,
+    "query": "How do functors between cognitive-logs enable multiple perspectives when abstracting concrete robot episodes into abstract scenarios?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2486,
+    "query": "How does the number of model samples and the use of ensembles impact the effectiveness of the Generator module, especially in programming-related assignments?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2487,
+    "query": "What are some of the current computational challenges and methodological implementations associated with the use of density functional theory in chemical system modeling?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2488,
+    "query": "What process was used to calculate the error covariance for tSZ field moments and which simulation set provided the necessary realizations?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2489,
+    "query": "How does the calculation of the L1 norm relate to navigation within a grid-based layout?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2490,
+    "query": "How does the existence of an oligomorphic group of symmetries ensure that the lowest weight of a relational mapping remains within the rational numbers or infinity?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2491,
+    "query": "How does the presence of hydrophilic confinement impact critical temperature transitions and structural formation in fluids compared to hydrophobic or unconfined states?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2492,
+    "query": "What are the concerns regarding weight and the age of children when planning a wedding photoshoot?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2493,
+    "query": "How does the mathematical requirement for a quadratic form to be positive definite differ from the conditions under which a generalized form G can be universal despite lacking a universal quadratic subform?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2494,
+    "query": "How is the relationship between $p^{2}$ and the variables $k_{i}$ isolated within the provided integrand?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2495,
+    "query": "How do negotiated and escalated management models compare in terms of reducing social tension?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2496,
+    "query": "What current method is used to determine the interaction between valleys based on the placement of atoms, and what other factor might influence this effect?",
+    "label": "Hard"
+  },
+  {
+    "query_id": 2497,
+    "query": "How does a strong magnetic field affect the probability density at the origin and the annihilation rate of positronium (Ps)?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2498,
+    "query": "Why did ARVO incorrectly identify the commit that fixed a crash in Qt5?",
+    "label": "Easy"
+  },
+  {
+    "query_id": 2499,
+    "query": "What are the conditions on the boundary regularity and monotonicity of a function to ensure the solution u maintains C^{1,beta} continuity outside of a small singular set over time?",
+    "label": "Medium"
+  },
+  {
+    "query_id": 2500,
+    "query": "What factors regarding the heterogeneity of clients influence the utility of regulating order flows in logistics services?",
+    "label": "Hard"
+  }
+]
