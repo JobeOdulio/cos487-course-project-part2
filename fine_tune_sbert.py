@@ -16,14 +16,11 @@ from sentence_transformers.evaluation import InformationRetrievalEvaluator
 from tqdm import tqdm
 
 
-def clean_html(text: str) -> str:
-    text = re.sub(r"<[^>]+>", " ", text or "")
-    text = html.unescape(text)
-    return re.sub(r"\s+", " ", text).strip()
+from preprocessing import preprocess, cleantext
 
 
 def make_query(t: dict) -> str:
-    return (clean_html(t["Title"]) + " " + clean_html(t.get("Body", ""))).strip()
+    return cleantext(t.get("query", ""))
 
 
 def load_qrels(path):
@@ -62,18 +59,19 @@ def retrieve_and_write(model, query_ids, query_texts, answer_ids, answer_emb,
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("--answers", default="Answers.json")
-    p.add_argument("--topics_train", default="topics_1.json")
-    p.add_argument("--topics_test", default="topics_2.json")
-    p.add_argument("--qrels", default="qrel_1.tsv")
+    p.add_argument("--papers", default="JSON Files.zip")
+    p.add_argument("--topics_train", default="Train.json")
+    p.add_argument("--topics_eval", default="Study.json")
+    p.add_argument("--qrels", default="Train_paper_qrel.tsv")
+    p.add_argument("--mode", choices=["paper", "paragraph"], default="paper")
     p.add_argument("--base_model", default="sentence-transformers/all-distilroberta-v1")
     p.add_argument("--model_out", default="best_sbert_model")
     p.add_argument("--output", default="run_topics2_finetuned.txt")
     p.add_argument("--run_name", default="sbert_distilroberta_ft")
-    p.add_argument("--epochs", type=int, default=3)
-    p.add_argument("--batch_size", type=int, default=2)
+    p.add_argument("--epochs", type=int, default=2)
+    p.add_argument("--batch_size", type=int, default=16)
     p.add_argument("--lr", type=float, default=2e-5)
-    p.add_argument("--max_seq_length", type=int, default=256)
+    p.add_argument("--max_seq_length", type=int, default=128)
     p.add_argument("--val_ratio", type=float, default=0.1)
     p.add_argument("--val_corpus_size", type=int, default=0,
                    help="0 = full corpus for validation; otherwise val-relevant docs + random distractors up to this size")
@@ -87,20 +85,34 @@ def main():
     print(f"Using device: {device}")
 
     # ---------------- Load data ----------------
-    with open(args.answers, encoding="utf-8") as f:
-        answers = json.load(f)
-    with open(args.topics_train, encoding="utf-8") as f:
+    processor = preprocess()
+    if args.mode == "paper":
+        collection = processor.load_paper(args.papers)
+    else:
+        collection = processor.load_paragraph(args.papers)
+    answer_text = {
+        str(doc_id): cleantext(doc["text"])
+        for doc_id, doc in collection.items()
+    }
+    answer_ids = list(answer_text.keys())
+
+    print(f"Loaded {len(answer_ids)} {args.mode}s")
+    with open(args.topics_train, "r", encoding="utf-8") as f:
         topics1 = json.load(f)
-    with open(args.topics_test, encoding="utf-8") as f:
+
+    with open(args.topics_eval, "r", encoding="utf-8") as f:
         topics2 = json.load(f)
-
-    answer_text = {a["Id"]: clean_html(a["Text"]) for a in answers}
-    qrels = load_qrels(args.qrels)
-
+    
     # Only keep topics that have at least one relevant, existing answer
-    topics1 = [t for t in topics1
-               if t["Id"] in qrels and any(d in answer_text for d in qrels[t["Id"]])][:5]
-    print(f"Topics with usable judgments: {len(topics1)}")
+    for t in topics1:
+        t["query_id"] = str(t["query_id"])
+    for t in topics2:
+        t["query_id"] = str(t["query_id"])
+    print(f"Training queries: {len(topics1)}")
+    print(f"Evaluation queries: {len(topics2)}")
+    qrels = load_qrels(args.qrels)
+    topics1 = [t for t in topics1 if t["query_id"] in qrels and any(d in answer_text for d in qrels[t["query_id"]])]
+    print(f"usable topics: {len(topics1)}")
 
     # 90/10 split by query
     random.shuffle(topics1)
@@ -112,14 +124,14 @@ def main():
     train_examples = []
     for t in train_topics:
         q = make_query(t)
-        for docid in qrels[t["Id"]]:
+        for docid in qrels[t["query_id"]]:
             if docid in answer_text:
                 train_examples.append(InputExample(texts=[q, answer_text[docid]]))
     print(f"Training pairs: {len(train_examples)}")
 
     # Validation evaluator
-    val_queries = {t["Id"]: make_query(t) for t in val_topics}
-    val_rel = {t["Id"]: {d for d in qrels[t["Id"]] if d in answer_text} for t in val_topics}
+    val_queries = {t["query_id"]: make_query(t) for t in val_topics}
+    val_rel = {t["query_id"]: {d for d in qrels[t["query_id"]] if d in answer_text} for t in val_topics}
 
     if args.val_corpus_size > 0:
         keep = set().union(*val_rel.values())
@@ -187,7 +199,7 @@ def main():
 
     retrieve_and_write(
         best,
-        [t["Id"] for t in topics2],
+        [t["query_id"] for t in topics2],
         [make_query(t) for t in topics2],
         answer_ids, answer_emb,
         args.output, args.run_name, args.top_k, 64,
